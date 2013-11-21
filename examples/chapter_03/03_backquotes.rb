@@ -1,0 +1,2 @@
+puts `ls`
+system 'pwd'
