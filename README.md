@@ -1,3 +1,3 @@
 Material for Ruby Workshop
 
-Based on contents of the awesome book The book of Ruby
+Based on contents from the awesome book The book of Ruby
